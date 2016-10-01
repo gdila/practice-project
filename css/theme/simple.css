@@ -139,6 +139,29 @@ div.left-align{
 	box-shadow: none;}
 
 /*********************************************
+ * LISTS
+ *********************************************/
+
+ .reveal dl {
+ }
+
+ .reveal dt {
+  font-weight: bold;
+ }
+
+ .reveal dd {
+  margin-left: 2rem;
+ }
+
+/*********************************************
+ * CUSTOM STYLES
+ *********************************************/
+
+ .reveal .center-align {
+  text-align: center;
+ }
+
+/*********************************************
  * NAVIGATION CONTROLS
  *********************************************/
 .reveal .controls div.navigate-left,
